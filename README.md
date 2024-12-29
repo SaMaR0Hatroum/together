@@ -1,2 +1,2 @@
-# together
+# Together
 Our project 
